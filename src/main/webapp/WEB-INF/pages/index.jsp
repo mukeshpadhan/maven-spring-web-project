@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome crevise!!! & ATA</h>
+<h1>Welcome crevise!!! and  ATA</h>
 <h1>Maven + Spring MVC Web Project!!!!</h1>
  
 <h3>Message : ${message}</h3>
